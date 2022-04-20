@@ -1,0 +1,4 @@
+﻿  matranxoanoc.cpp
+C:\Users\HP\Downloads\Test\matranxoanoc\matranxoanoc\matranxoanoc.cpp(41,5): error C2601: 'main': local function definitions are illegal
+C:\Users\HP\Downloads\Test\matranxoanoc\matranxoanoc\matranxoanoc.cpp(6): message : this line contains a '{' which has not yet been matched
+C:\Users\HP\Downloads\Test\matranxoanoc\matranxoanoc\matranxoanoc.cpp(42): fatal error C1075: '{': no matching token found
